@@ -1,0 +1,2 @@
+# Labo-vanilla-typescript-source
+""
